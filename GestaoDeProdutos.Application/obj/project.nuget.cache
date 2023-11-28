@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "avi1CiXld9TaxjSXGTzXAhuoiuMAN5oDR6CHEWLMvuK/zxkytzb0jYfDZqWoGH4BouL9M6+cuFOwefBNls2l6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitor Hugo\\Desktop\\Nova pasta\\Faculdade\\4 Periodo\\H1\\Ny\\GestaoDeProdutos.Application\\GestaoDeProdutos.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\automapper.collection\\7.0.1\\automapper.collection.7.0.1.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\automapper.collection.linqtosql\\7.0.1\\automapper.collection.linqtosql.7.0.1.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\automapper.extensions.expressionmapping\\1.0.0\\automapper.extensions.expressionmapping.1.0.0.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Collection 7.0.1 requer AutoMapper (>= 10.0.0 && < 11.0.0), mas a versão AutoMapper 12.0.1 foi resolvida.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'AutoMapper.Collection.LinqToSQL 7.0.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "AutoMapper.Collection.LinqToSQL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
